@@ -1,4 +1,4 @@
-Verti by HTML5 UP
+스마트 제어 및 고장탐지 연구실
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
