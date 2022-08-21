@@ -79,7 +79,8 @@ https://github.com/SCoFDLeb/Cobot/blob/main/README.md
 
 주소 : 수원대학교 고운첨단과학기술연구원 302호  
 메일 : scofdLeb@gmail.com  
-전화 : 031-220-2527
+전화 : 031-220-2527  
+홈페이지 : https://scofdleb.github.io/Homepage/
 
 &nbsp;
 
