@@ -64,8 +64,7 @@ https://github.com/SCoFDLeb/Cobot/blob/main/README.md
 수압 EHA를 적용한 협동로봇입니다.
 
 연구실적
-- 임동원,&ensp;"협동로봇 구동기를 위한 액셜피스톤 수압 EHA(Electro-Hydraulic Actuator)"  
-    
+- 임동원,&ensp;"협동로봇 구동기를 위한 액셜피스톤 수압 EHA(Electro-Hydraulic Actuator)",  
   제어로봇시스템학회 국내학술대회 논문집, 2020.07
 
 - 임동원, 이용권,&ensp;"협동로봇을 위한 안전 무치차 벨트식 감속기 개발",      
@@ -86,7 +85,7 @@ https://github.com/SCoFDLeb/Cobot/blob/main/README.md
 
 ## License
 Smat Control & Fault Detection Laboratory
-Department of Mechanical Engineerign, Suwon University 
+Department of Mechanical Engineering, Suwon University 
 capyright All rights reserved.
 
 
